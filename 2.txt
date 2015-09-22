@@ -1,0 +1,50 @@
+pid= fork();
+[         ] - выполнится два раза ( в ребенке и в родителе)
+в дочернем pid == 0
+в родительском pid = child pid - идентификатор процесса ( уникален)
+getpid() - возвращает иден текущего процесса
+getppid() - возвращает иден родительского процесса
+
+
+базовая программка 
+pid = fork();
+if (pid == 0 )
+	printf("Child\n");
+else if ( pid > 0)
+	printf("Parent\n");
+else 
+	printf("Error\n");
+wait(& status); // => exit(-1);
+
+семейство сис вызовов exec  - 6 штук
+execl
+execlp
+execle		// отличается от 
+
+execv
+execvp
+execvpe		/* оперирует с массивом аргументов ( массив указателей на char)
+*/
+
+execl( ergv[0], argv [0], argc [1] ... null)
+execv( argv[0], argv )
+
+как пишутся программы
+
+execl( "/bin/ls", "/bin/ls", NULL);
+printf("error");	//после вызова exec код написанный ниже не исполняется
+=> open( name, 0_ROWR; o_cloexec);
+=>fork()
+  exec
+
+
+pid = fork()
+if (pid == 0) {
+	exec()
+	exit(-1)
+}
+
+1)strace ls -a -l -s x.x
+2)start_childre [n]
+	N pid ppid
+3) 

@@ -1,0 +1,500 @@
+    8  chmod a -x
+    9  ls
+   10  touch main.c
+   11  vim main.c 
+   12  gcc main.c 
+   13  vim main.c 
+   14  gcc main.c 
+   15  vim main.c 
+   16  gcc main.c 
+   17  vim main.c 
+   18  gcc main.c 
+   19  clang main.c 
+   20  ll
+   21  ls
+   22  ./a.out 
+   23  man umask
+   24  man umask()
+   25  man umask
+   26   command
+   27  cal
+   28  w
+   29  yes xyu
+   30  nl
+   31  git config --global user.name "supreme146"
+   32  git config --global user.email "sdima96@gmail.com"
+   33  git config --global core.autocrlf input
+   34  git config --global core.safecrlf true
+   35  man scanf
+   36  man scanf
+   37  man strerrno
+   38  man strerror
+   39  ~/.bashrc
+   40  cd -
+   41  cd ..
+   42  ls
+   43  cd /
+   44  ls
+   45  cd ..
+   46  ls
+   47  ~/.bashrc
+   48  ls
+   49  cd ..
+   50  ls
+   51  cd /
+   52  ls
+   53  ~/.profile
+   54  cd etc
+   55  ls
+   56  ~/.bashrc
+   57  vim bashrc 
+   58  vim man.conf 
+   59  cd ..
+   60  ls
+   61  cd Users/
+   62  ls
+   63  cd sdima96/
+   64  .bashrc
+   65  ~/.bashrc
+   66  ~/.bash_profile
+   67  .bash_profile
+   68  cd ..
+   69  ls
+   70  cd /
+   71  ls
+   72  .config
+   73  ды
+   74  ls
+   75  cd etc/
+   76  ls
+   77  ~/bashrc
+   78  profiles 
+   79  cd profile 
+   80  ls
+   81  cd profile 
+   82  vim profile 
+   83  man isspace
+   84  touch main1.c
+   85  rm main1.c 
+   86  ls
+   87  cd GitHub/
+   88  ls
+   89  cd MIPT.3SEM.LYNEV/
+   90  ls
+   91  touch main1.c
+   92  ls
+   93  vim main1.c 
+   94  clang main1.c 
+   95  vim main1.c 
+   96  clang main1.c 
+   97  ./a.out 
+   98  ./a.out 
+   99  ./a.out 
+  100  ./a.out 
+  101  ./a.out 
+  102  vim main1.c 
+  103  ./a.out 
+  104  ./a.out 
+  105  ./a.out 
+  106  ./a.out 
+  107  ./a.out 
+  108  vim main1.c 
+  109  man strol
+  110  man strtol
+  111  vim main1.c 
+  112  man strtol
+  113  man errno.h
+  114  man strtol
+  115  man strerror
+  116  man strtol
+  117  vim main1.c 
+  118  vim main.c 
+  119  ld
+  120  ls
+  121  vim enum.c 
+  122  ls
+  123  cd GitHub/
+  124  ls
+  125  cd MIPT.3SEM.LYNEV/
+  126  ls
+  127  touch main.c
+  128  vim main.c 
+  129  vim main.c 
+  130  clang main.c 
+  131  ./a.out 
+  132  vim main.c 
+  133  ./a.out 
+  134  clang main.c 
+  135  ./a.out 
+  136  ./a.out 
+  137  vim main.c 
+  138  clang main.c 
+  139  ./a.out 
+  140  ./a.out 
+  141  vim main.c 
+  142  vim main.c 
+  143  touch enum.c
+  144  vim enum.c 
+  145  ls
+  146  cd /
+  147  ls
+  148  cd etc
+  149  ls -a
+  150  cd /
+  151  ~/.config
+  152  ls -a
+  153  man strtol
+  154  ls
+  155  cd GitHub/
+  156  ls
+  157  cd MIPT.3SEM.LYNEV/
+  158  ls
+  159  vim enum.c 
+  160  man errno
+  161  man -a errno
+  162  whatis errno
+  163  info errno
+  164  man Errno
+  165  man strtol
+  166  sudo apt-get update
+  167  softwareupdate
+  168  man update
+  169  update man
+  170  man strtol
+  171  uname -a
+  172  ls
+  173  Parallels\ Desktop.app/
+  174  man strtol
+  175  man exit
+  176  man exit
+  177  cd GitHub/
+  178  ls
+  179  cd MIPT.3SEM.LYNEV/
+  180  ls
+  181  cd enum.c 
+  182  vim enum.c 
+  183  ls
+  184  cd /
+  185  ls
+  186  cd Library/
+  187  ls
+  188  cd/
+  189  cd /
+  190  ln -s /Volumes/TOSHIBA/Backup/ ~/Library/Application\ Support/MobileSync/Backup
+  191  ls
+  192  cd GitHub/
+  193  ls
+  194  cd MIPT.3SEM.LYNEV/
+  195  ls
+  196  vim main
+  197  vim main.c 
+  198  дв
+  199  ls
+  200  cd GitHub/
+  201  ls
+  202  cd mipt-lunev/
+  203  ls
+  204  ls -a
+  205  ls -all
+  206  cd temp/
+  207  ls
+  208  man strace
+  209  man trace
+  210  ды
+  211  ls
+  212  cd GitHub/
+  213  ls
+  214  cd MIPT.3SEM.LYNEV/
+  215  ls
+  216  touch 2.txt
+  217  vim 2.txt 
+  218  ls
+  219  cd GitHub/
+  220  ls
+  221  cd MIPT.3SEM.LYNEV/
+  222  ls
+  223  cd main1.c 
+  224  vim main1.c 
+  225  vim main.c 
+  226  vim enum.c 
+  227  ls
+  228  cd /
+  229  ls
+  230  cd Users/
+  231  cd sdima96/
+  232  ls
+  233  cd Downloads/
+  234  ls
+  235  ls -al
+  236  vim two_prog.c 
+  237  clang two_prog.c 
+  238  ./a.out 
+  239  ./a.out 125
+  240  ./a.out       -4556
+  241  ./a.out       -4556
+  242  ./a.out 5
+  243  ./a.out -5
+  244  ./a.out ghjk
+  245  ./a.out ghjk
+  246  ./a.out fghj fghjk
+  247  cd /
+  248  ls
+  249  cd Users/
+  250  cd sdima96/
+  251  ls
+  252  cd GitHub/
+  253  ls
+  254  cd MIPT.3SEM.LYNEV/
+  255  ls
+  256  vim 21
+  257  ls
+  258  vim 21.c 
+  259  cd /
+  260  ls
+  261  cd tmp/
+  262  ls
+  263  cd tmp
+  264  ls
+  265  ls
+  266  cd /
+  267  cd Users/
+  268  cd sdima96/
+  269  ls
+  270  cd D
+  271  cd Desktop/
+  272  ls
+  273  touch main.c
+  274  vim main.c 
+  275  clang main.c 
+  276  vim main.c 
+  277  clang main.c 
+  278  ./a.out 
+  279  vim main.c 
+  280  clang main.c 
+  281  vim main.c 
+  282  clang main.c 
+  283  ./a.out 
+  284  vim main.c 
+  285  clang main.c 
+  286  ./a.out 
+  287  ./a.out 
+  288  ./a.out 
+  289  ./a.out 
+  290  ./a.out 
+  291  ./a.out 
+  292  ./a.out 
+  293  ./a.out 
+  294  ./a.out 
+  295  еьгч
+  296  tmux
+  297  brew install tmux
+  298  tmux
+  299  man malloc
+  300  man size_of
+  301  man sizeof
+  302  man malloc
+  303  man fork
+  304  man wait
+  305  man exec
+  306  man exec
+  307  man execl
+  308  man execv
+  309  man fork
+  310  man wait
+  311  man fork
+  312  man strace
+  313  ls
+  314  cd GitHub/
+  315  cd MIPT.3SEM.LYNEV/
+  316  touch 2.c
+  317  vim 2.c
+  318  clang 2.c
+  319  vim 2.c
+  320  clang 2.c
+  321  vim 2.c
+  322  clang 2.c
+  323  vim 2.c
+  324  clang 2.c
+  325  ./a.out 
+  326  ./a.out ls -a -l
+  327  vim 2.c
+  328  clang 2.c
+  329  ./a.out ls -a -l
+  330  ./a.out echo hjk
+  331  vim 2.c
+  332  ./a.out ls
+  333  touch 21.c
+  334  vim 21.c 
+  335  clang 21.c 
+  336  clang 21.c 
+  337  clang 21.c 
+  338  vim 21.c 
+  339  clang 21.c 
+  340  vim 21.c 
+  341  clang 21.c 
+  342  ./a.out 5
+  343  vim 21.c 
+  344  clang 21.c 
+  345  ./a.out 4
+  346  vim 21.c 
+  347  clang 21.c 
+  348  ./a.out 5
+  349  ./a.out 45
+  350  ls
+  351  ./a.out 50
+  352  ./a.out 90
+  353  ./a.out 900
+  354  ./a.out 900
+  355  vim 21.c 
+  356  ./a.out 9
+  357  ./a.out 9
+  358  ./a.out 9
+  359  ./a.out 9
+  360  ./a.out 9
+  361  ./a.out 9
+  362  ./a.out 9
+  363  ./a.out 9
+  364  ./a.out 9
+  365  ./a.out 9
+  366  ./a.out 9
+  367  ./a.out 9
+  368  ./a.out 9
+  369  ./a.out 9
+  370  ./a.out 9
+  371  ./a.out 9
+  372  ./a.out 9
+  373  ./a.out 9
+  374  ./a.out 9
+  375  ./a.out 9
+  376  ./a.out 9
+  377  ./a.out 9
+  378  vim 21.c 
+  379  ./a.out 9
+  380  ./a.out 9000
+  381  vim 21.c 
+  382  vim 21.c 
+  383  strace -f -o log ./a.out 
+  384  dtruss -f -o log ./a.out 
+  385  sudo dtruss -f -o log ./a.out 
+  386  ls
+  387  man dtruss
+  388  touch log
+  389  sudo dtruss -f -o log ./a.out 
+  390  man dtruss
+  391  man dtr
+  392  man dtruss
+  393  sudo dtruss -f -o ./a.out 
+  394  ls
+  395  touch HelloWorld.c
+  396  vim HelloWorld.c 
+  397  ls
+  398  vim HelloWorld.c 
+  399  clang  HelloWorld.c 
+  400  vim HelloWorld.c 
+  401  clang  HelloWorld.c 
+  402  sudo dtruss -f -o ./a.out 
+  403  sudo dtruss -f -o ./a.out log
+  404  ls
+  405  vim log
+  406  sudo dtruss -f -o ./a.out >log
+  407  vim log
+  408  rm log
+  409  ls
+  410  ls
+  411  ls -al
+  412  touch log
+  413  sudo dtruss -f -o ./a.out > log
+  414  vim log
+  415  sudo dtruss -f -o ./a.out >> log 
+  416  vim log
+  417  sudo dtruss -f -o ./a.out || cat as
+  418  sudo dtruss -f -o ./a.out 2> log
+  419  vim log
+  420  tmux
+  421  tmux attach
+  422  tmux set -g status off
+  423  ls
+  424  cd GitHub/
+  425  ls
+  426  cd MIPT.3SEM.LYNEV/
+  427  ls
+  428  vim 21.c 
+  429  ls
+  430  cd GitHub/
+  431  ls
+  432  cd MIPT.3SEM.LYNEV/
+  433  ls
+  434  vim 2.txt 
+  435  tmux
+  436  ls
+  437  cd Desktop/
+  438  ./a.out 
+  439  vim main.c 
+  440  vim main.c 
+  441  tmux set -g status off
+  442  ls
+  443  cd Desktop/
+  444  ls
+  445  clang main.c
+  446  clang main.c
+  447  clang main.c
+  448  clang main.c
+  449  tmux
+  450  tmux
+  451  history
+  452  ls
+  453  c GitHub/
+  454  cd M
+  455  cd GitHub/
+  456  cd M
+  457  cd MIPT.3SEM.LYNEV/
+  458  ls
+  459  clang 21.c
+  460  ls
+  461  cd GitHub/
+  462  cd MIPT.3SEM.LYNEV/
+  463  ls
+  464  tmux
+  465  tmux
+  466  tmux
+  467  ls
+  468  vim process\ managment/
+  469  cd process\ managment/
+  470  ls
+  471  vim exec.c 
+  472  tmux
+  473  ls
+  474  ls
+  475  cd .
+  476  cd ..
+  477  ld
+  478  ls
+  479  cd mipt-lunev/
+  480  ls
+  481  cd temp/
+  482  la
+  483  ls
+  484  vim exec.c 
+  485  ls
+  486  vim 2.
+  487  ls
+  488  vim 2.c
+  489  mv 2.c exec.c
+  490  ls
+  491  mkdir process\ managment
+  492  ls
+  493  mv exec.c process\ managment/
+  494  ls
+  495  cd process\ managment/
+  496  ls
+  497  cd ..
+  498  ls
+  499  vim 2.txt 
+  500  ls
+  501  vim log1
+  502  ls
+  503  vim log1
+  504  man dtruss
+  505  man history
+  506  history
+  507  history > history.txt
