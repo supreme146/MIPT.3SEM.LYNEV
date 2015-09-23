@@ -1,0 +1,19 @@
+fd[1] - файловый дискриптор для записи
+fd[0] - ф д для чтения
+pipe( int fd[2]);
+
+
+int fds[2];
+pipe(fds);
+
+fork();
+
+
+find . -name  \*.c | xargs grep "a= "
+
+mkfifor( name, 0666);
+open ( name, O_RDONLY);
+
+1)
+ 
+2)
