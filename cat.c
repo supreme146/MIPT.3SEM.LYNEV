@@ -11,8 +11,8 @@ int main(int argc, char *argv[])
 {
 	int size;
     int fileid;
-    char buf;
-    char buf2;
+    char buf[4096];
+    char buf2[4096];
     int pipefd[2];
     pid_t cpid;
     if (argc != 2)
